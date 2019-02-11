@@ -259,3 +259,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/src/JsonToGexf/Properties/launchSettings.json
+/src/Untitled.gexf
+/src/example_input2.gexf.gephi
+/src/example_input.gexf
+/Sample_graph.svg
+/Sample_graph.png
+/Sample_graph.jpg
