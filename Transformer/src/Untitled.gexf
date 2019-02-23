@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-02-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="kek" title="Kek" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="548" label="O36">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-77.668396" y="111.07074"></viz:position>
+      </node>
+      <node id="549" label="O47">
+        <attvalues>
+          <attvalue for="kek" value="kekek"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.55942" y="-9.904236"></viz:position>
+      </node>
+      <node id="550" label="O99">
+        <attvalues>
+          <attvalue for="kek" value="fadfsdf"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-429.27615" y="247.42285"></viz:position>
+      </node>
+      <node id="723" label="Z35">
+        <attvalues>
+          <attvalue for="kek" value="sadsdfasd"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="435.90366" y="-325.68134"></viz:position>
+      </node>
+      <node id="724" label="Z36">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.34085" y="195.47473"></viz:position>
+      </node>
+      <node id="722" label="Z34">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.1476" y="21.754822"></viz:position>
+      </node>
+      <node id="725" label="Z39">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-228.31407" y="-379.54514"></viz:position>
+      </node>
+      <node id="543" label="O24">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="37.306" y="14.337036"></viz:position>
+      </node>
+      <node id="721" label="Z32">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.65372" y="159.11194"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="207" source="549" target="548" weight="364.15753173828125"></edge>
+      <edge id="208" source="550" target="548" weight="345.7054443359375"></edge>
+      <edge id="209" source="550" target="549" weight="225.76681518554688"></edge>
+      <edge id="210" source="723" target="548" weight="296.013916015625"></edge>
+      <edge id="211" source="723" target="549" weight="239.7108612060547"></edge>
+      <edge id="212" source="723" target="550" weight="254.6690216064453"></edge>
+      <edge id="213" source="724" target="548" weight="235.21266174316406"></edge>
+      <edge id="214" source="724" target="549" weight="243.6544952392578"></edge>
+      <edge id="215" source="724" target="550" weight="225.50631713867188"></edge>
+      <edge id="216" source="724" target="723" weight="221.65521240234375"></edge>
+      <edge id="217" source="722" target="548" weight="280.3726806640625"></edge>
+      <edge id="218" source="722" target="549" weight="261.5721740722656"></edge>
+      <edge id="219" source="722" target="550" weight="231.12689208984375"></edge>
+      <edge id="220" source="722" target="723" weight="233.88754272460938"></edge>
+      <edge id="221" source="722" target="724" weight="246.72796630859375"></edge>
+      <edge id="222" source="725" target="549" weight="211.87347412109375"></edge>
+      <edge id="223" source="725" target="550" weight="214.98118591308594"></edge>
+      <edge id="224" source="725" target="723" weight="219.3618927001953"></edge>
+      <edge id="225" source="725" target="724" weight="210.36805725097656"></edge>
+      <edge id="226" source="725" target="722" weight="229.3574981689453"></edge>
+      <edge id="227" source="543" target="548" weight="194.65875244140625"></edge>
+      <edge id="228" source="543" target="549" weight="169.498779296875"></edge>
+      <edge id="229" source="543" target="550" weight="178.70310974121094"></edge>
+      <edge id="230" source="543" target="723" weight="185.65992736816406"></edge>
+      <edge id="231" source="543" target="724" weight="189.4678497314453"></edge>
+      <edge id="232" source="543" target="722" weight="89.7192611694336"></edge>
+      <edge id="233" source="543" target="725" weight="240.42063903808594"></edge>
+      <edge id="234" source="721" target="548" weight="214.85513305664062"></edge>
+      <edge id="235" source="721" target="549" weight="196.43898010253906"></edge>
+      <edge id="236" source="721" target="550" weight="157.7952423095703"></edge>
+      <edge id="237" source="721" target="723" weight="160.5924530029297"></edge>
+      <edge id="238" source="721" target="724" weight="163.28990173339844"></edge>
+      <edge id="239" source="721" target="722" weight="131.56561279296875"></edge>
+      <edge id="240" source="721" target="725" weight="123.0328369140625"></edge>
+      <edge id="241" source="721" target="543" weight="130.63192749023438"></edge>
+    </edges>
+  </graph>
+</gexf>
